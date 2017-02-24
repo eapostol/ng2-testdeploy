@@ -84,19 +84,24 @@ where yourProjectName is the project name added in the URL e.g. ng2-testdeploy
 `git remote -v`
 
 `git push -u origin master`
+
 `git pull`
 
 If you have problems with push and pull, try 
 
 `git branch --set-upstream-to=origin/master`
+
 `git pull`
+
 `git push -u origin master`
+
 
 You can then proceed to develop code for the project.
 
 14. Then at the terminal (when you are ready to deploy), type in the following at the terminal **AND THIS IS IMPORTANT!**
 
 `ng github-pages:deploy`
+
 
 15. Once its deployed, browse to the resultant github.io address that is shown in the terminal. It likely says something like 
 
@@ -108,13 +113,16 @@ If you browse and the URL doesn't show anything...wait a few minutes, then try a
 
 `git branch -a`
 
+
 and confirm that there is a remote branch that looks like 
 
 `remotes/origin/gh-pages`
 
+
 17. Once you confirm that the remote branch exists, at the terminal switch to the github io branch...
 
 `git checkout gh-pages`
+
 
 18. Open index.html in a text editor.
 
