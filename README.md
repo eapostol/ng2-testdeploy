@@ -1,6 +1,6 @@
 # Viewing this site on Github.io
 
-The site URL is [github-io](https://eapostol.github.io/ng2-testdeploy/)
+The site URL is shown at  [https://eapostol.github.io/ng2-testdeploy/](https://eapostol.github.io/ng2-testdeploy/)
 
 # Angular 2 Test Deployment
 
