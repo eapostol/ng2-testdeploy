@@ -1,3 +1,7 @@
+# Viewing this site on Github.io
+
+The site URL is [github-io](https://eapostol.github.io/ng2-testdeploy/)
+
 # Angular 2 Test Deployment
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
