@@ -65,8 +65,11 @@ Note your project name can be whatever is appropriate. Choose no .gitignore, and
 9. At the terminal, type in the following commands followed by the enter key
 
 `git init`
+
 `git add .`
+
 `git commit -m "#001: first commit"`
+
 
 10. In a web browser, return to your github repository for this project and copy the git url from the "clone or download" button.  It should look something like:
 
